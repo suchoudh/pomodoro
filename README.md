@@ -20,8 +20,8 @@ OR
     git clone https://github.com/mehdidc/pomodoro
     cd pomodoro
     pip install -r requirements.txt
-    python setup.py install
-```
+    python setup.py install   # use python3 if this is giving error.for 2.7
+` ``
 
 
 ## How to use it?
